@@ -1,13 +1,6 @@
 #EXTM3U
 #EXTINF:-1,RTK 1 HD
 http://84.22.32.190:8007/rtk1hd
-#EXTM3U
-#EXTINF:-1,AL: RTK SAT
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/2304.ts
-#EXTINF:-1,AL: RTK 1 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/1318.ts
-#EXTINF:-1,AL: RTK 1 FHD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/1319.ts
 #EXTINF:-1,AL: RTK 2 HD
 http://iptv.kosiptv.com:1557/live/Sasha/Sasha/1320.ts
 #EXTINF:-1,AL: RTK 3 FHD
